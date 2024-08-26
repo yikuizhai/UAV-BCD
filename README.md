@@ -12,7 +12,7 @@ Remote sensing change detection (RSCD) holds significant prominence as a researc
 
 ## Dataset
 
-The proposed dataset can be found at [[https://pan.baidu.com/s/1tJVFkJU4fmX_nGqi70b3yA](https://pan.baidu.com/s/1tJVFkJU4fmX_nGqi70b3yA?pwd=32qc)] password: [pwd=32qc](https://pan.baidu.com/s/1tJVFkJU4fmX_nGqi70b3yA?pwd=32qc)
+The proposed dataset can be found at [[https://pan.baidu.com/s/1tJVFkJU4fmX_nGqi70b3yA](https://pan.baidu.com/s/1tJVFkJU4fmX_nGqi70b3yA?pwd=32qc)]
 
 ## Citation
 
