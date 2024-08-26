@@ -2,7 +2,7 @@
 
 This repository is for releasing a uav-bcd: a uav building change detection dataset.
 
-## paper
+## Paper
 
 UAV-BCD: A UAV Building Change Detection Dataset [[UAV-BCD: A UAV Building Change Detection Dataset | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/10281907)]
 
