@@ -19,14 +19,15 @@ The proposed dataset can be found at [[https://pan.baidu.com/s/1tJVFkJU4fmX_nGqi
 Please cite our paper if you find it useful for your research.
 
 ```
-@ARTICLE{10758805,
-  author={Zhai, Yikui and Pan, Jiahao and Zhang, Hongsheng and Xian, Tingfeng and Xu, Ying and Coscia, Pasquale and Genovese, Angelo and Piuri, Vincenzo and Scotti, Fabio and Philip Chen, C. L.},
-  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={Efficient Adjacent Feature Harmonizer Network With UAV-CD+ Dataset for Remote Sensing Change Detection}, 
-  year={2024},
-  volume={62},
+@INPROCEEDINGS{10281907,
+  author={Ying, Zilu and Tan, Zijun and Li, Wenba and Zhou, Jianhong and Liang, Zhangzhao and Zhai, Yikui},
+  booktitle={IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium}, 
+  title={UAV-BCD: A UAV Building Change Detection Dataset}, 
+  year={2023},
+  volume={},
   number={},
-  pages={1-18},
-  keywords={Feature extraction;Computational modeling;Autonomous aerial vehicles;Satellites;Computational efficiency;Accuracy;Costs;Vectors;Spatiotemporal phenomena;Spatial resolution;Multiscale feature neighbor fusion module (MFNFM);remote sensing change detection (RSCD);spatial and channel feature harmonizer module (SCFHM);ultralightweight;unmanned aerial vehicle (UAV) datasets},
-  doi={10.1109/TGRS.2024.3502768}}
+  pages={1012-1015},
+  keywords={Learning systems;Computer vision;Satellites;Image resolution;Buildings;Data acquisition;Benchmark testing;Remote sensing;change detection;computer vision;UAV;dataset},
+  doi={10.1109/IGARSS52108.2023.10281907}}
+
 ```
